@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @debajyoti22
-- 👀 I’m interested in coding and debugging
-- 🌱 I’m currently learning C,C++,Python,HTML-CSS
+- 👀 I’m interested in coding debugging and AI/ML
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
