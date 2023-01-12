@@ -2,7 +2,7 @@
 #### I am Debajyoti
 
 - 👀 I’m interested in coding debugging and AI/ML
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
